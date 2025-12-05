@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/yapingcat/gomedia/go-codec"
+	"github.com/cythical/gomedia/go-codec"
 )
 
 func main() {
